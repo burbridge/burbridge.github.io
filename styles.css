@@ -24,3 +24,8 @@
 				font-size: smaller;
 				color:black;
 				}
+			.small-caps,.sc {
+				font-size: smaller;
+				text-transform: uppercase;
+				font-weight: bolder;
+			}
