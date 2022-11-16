@@ -23,6 +23,7 @@
 				font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 				font-size: smaller;
 				color:black;
+				text-transform: uppercase;
 				}
 			.small-caps,.sc {
 				font-size: smaller;
