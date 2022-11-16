@@ -16,6 +16,7 @@
 				font-family: "Georgia", serif;
 				line-height: 140%;
 				}
+			article > p {text-align: justify;}
 			footer {
 				margin: 72px auto 72px auto;
 				padding: 72px auto;
