@@ -1,6 +1,6 @@
 			html {background-color: white;}
 			body {
-				width: 350px;
+				width: 275px;
 				margin: auto;
 				padding: 36px;
 				background-color: white;
@@ -17,8 +17,8 @@
 				line-height: 140%;
 				}
 			footer {
-				margin: 72 auto 72 auto;
-				padding: 72 auto;
+				margin: 72px auto 72px auto;
+				padding: 72px auto;
 				border-top: thin solid gray;
 				font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 				font-size: smaller;
