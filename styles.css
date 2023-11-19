@@ -28,8 +28,10 @@
 				border-top: thin solid gray;
 				font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 				font-size: smaller;
+				font-weight:100;
 				color:black;
 				text-transform: uppercase;
+				hyphens:auto;
 				}
 			.small-caps,.sc {
 				font-size: smaller;
