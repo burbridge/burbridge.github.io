@@ -9,10 +9,12 @@
 				background-color: white;
 				color: rgb (0,0,32);
 				font-family: "Georgia", serif;
+				hyphens:auto;
 				}
 			h1,h2,h3,h4,h5,h6 {
 				color: rgb (0,0,64);
 				font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+				hyphens:none;
 				}
 			header > h1 {font-weight: 100}
 			p {
